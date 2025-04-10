@@ -42,7 +42,7 @@ This repository contains a Power BI report that visualizes historical Olympic Ga
   - Slicers and filters for year, country, sport, and gender
 
 ### 5. **Publishing & Sharing**
-- (Optional) Published to Power BI Service for easy access and sharing
+-  Published to Power BI Service for easy access and sharing
 
 ## Getting Started
 
